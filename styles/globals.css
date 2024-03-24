@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    background-color: #F2F0E4; /* Replace with your desired color */
+}
+
+.active {
+    color:red;
+}
